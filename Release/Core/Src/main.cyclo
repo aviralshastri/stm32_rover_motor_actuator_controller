@@ -1,0 +1,16 @@
+../Core/Src/main.c:93:6:PCA9685_SetBit	3
+../Core/Src/main.c:110:6:PCA9685_SetPWMFrequency	4
+../Core/Src/main.c:144:6:PCA9685_Init	1
+../Core/Src/main.c:163:6:PCA9685_SetPWM	2
+../Core/Src/main.c:181:6:PCA9685_SetServoAngle	4
+../Core/Src/main.c:194:6:PCA9685_SetAllPWM	1
+../Core/Src/main.c:207:6:PCA9685_SetAllServoAngle	3
+../Core/Src/main.c:216:10:MapPowerToPulse	1
+../Core/Src/main.c:221:6:SendFeedback	1
+../Core/Src/main.c:226:8:Single_Esc_Control	5
+../Core/Src/main.c:243:8:Batch_Esc_Control	6
+../Core/Src/main.c:261:8:Burst_Esc_Control	6
+../Core/Src/main.c:279:8:Control_Command_Handler	4
+../Core/Src/main.c:409:6:SystemClock_Config	4
+../Core/Src/main.c:324:5:main	23
+../Core/Src/main.c:789:6:Error_Handler	1
